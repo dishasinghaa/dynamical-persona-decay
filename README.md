@@ -1,6 +1,6 @@
 # Dynamical Persona Decay: Predicting Safety-Instruction Eviction Before It Happens
 
-[`writeup/WRITEUP.md`](writeup/WRITEUP.md) — start there.
+[`Dynamical Persona Decay: Predicting Safety-Instruction Eviction Before It Happens `](https://docs.google.com/document/d/1HXRuRJYby7MKBLTxDx5pbXG57zVkp5ahvjWLCVhZJfE/edit?tab=t.0#heading=h.qaebt1ylmaz6) — start there.
 
 ## What this is
 
@@ -27,8 +27,7 @@ scripts/
                     # cross-check, manual label spot-check
   generalization/  # testing across 7 prompts / 5 domains
   steering/         # causal intervention: constant and conditional steering
-writeup/
-  WRITEUP.md       # full executive summary + main write-up
+
 ```
 
 Scripts are numbered/named in the order they were run, matching the
